@@ -1,10 +1,10 @@
 # Data analysis
-- Document here the project: climate_forecast
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Document here the project: Climate Forecast
+- Description: Forecasting of Climate change acrosse the globe and per country, using deep learning models
+- Data Source: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data/notebooks?datasetId=29&sortBy=voteCount
+- Type of analysis: LSTM Networks
 
-Please document the project the better you can.
+Semi-guided project by Coursera (Climate Change Forecasting Using Deep Learning)
 
 # Startup the project
 
